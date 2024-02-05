@@ -1,11 +1,11 @@
 # Setup
 title: Machine Learning
 tagline: CS SBU
-description: Fundamentals of Machine Learning. Spring 2024
-baseurl: '/ML-Fundamentals-Spring-2024' # the subpath of your site, e.g. /blog
-url: 'https://hadifarahani.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+description: Machine Learning Course of Computer Science Faculty of Shahid Beheshti University. Winter 2023
+baseurl: '/CS-SBU-MachineLearning-2023' # the subpath of your site, e.g. /blog
+url: 'https://scheshmi.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md",vendor]
-
+favicon_ico: "favicon.ico"
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.3.3
 color_scheme: custom
@@ -14,8 +14,8 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Repo on GitHub:
-    - 'https://github.com/hadifarahani/ML-Fundamentals-Spring-202'
-footer_content: 
+    - 'https://github.com/scheshmi/CS-SBU-MachineLearning-2023'
+footer_content: Machine Learning - Computer Science Faculty of Shahid Beheshti University. Winter 2023 - Contact us at saeidcheshmi@outlook.com
 
 # Collections for website data
 collections:
