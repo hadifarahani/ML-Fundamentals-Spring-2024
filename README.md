@@ -1,4 +1,4 @@
-# Machine Learning Course
+# Fundamentals of Machine Learning Course
 
 Computer Science Faculty of Shahid Beheshti University. Spring 2024
 
