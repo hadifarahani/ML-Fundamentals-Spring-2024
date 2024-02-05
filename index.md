@@ -9,7 +9,7 @@ seo:
   name: Home
 ---
 
-# Machine Learning Course
+# Fundamentals of Machine Learning Course
 {: .mb-2 .text-green-000}
 
 Computer Science Faculty of Shahid Beheshti University.
